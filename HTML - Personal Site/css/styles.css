@@ -1,0 +1,24 @@
+body {
+  background-color: #F8FFDB;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  font-size: 500%;
+  background-color: #C6D57E;
+  color: #5E454B;
+  font-family: Verdana, sans-serif;
+}
+
+h3 {
+  font-family: Verdana, sans-serif;
+  background-color: #C6D57E;
+  color: #D57E7E;
+}
